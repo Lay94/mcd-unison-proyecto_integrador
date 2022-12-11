@@ -4,7 +4,7 @@ El presente proyecto constituye parte de la evaluación de la materia Ingienerí
 En él se trabajaron y analizaron datos públicos del gobierno de México relacionados con la percepción de inseguridad de las mujeres y los delitos cometidos relacionados con la violencia machista.
 
 ## Objetivos
-Se quiere encontrar si existe relación entre las tasas de inseguridad que perciben las mujeres en su ciudad y los delitos como feminicidios, violencia familiar y violencia de 
+Se quiere encontrar si existe relación entre las tasas de inseguridad que perciben las mujeres en su ciudad y delitos como feminicidios, violencia familiar y violencia de 
 género por cada 100 mil mujeres durante el año 2022.
 
 ## Fuentes de datos
