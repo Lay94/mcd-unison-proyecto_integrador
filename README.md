@@ -20,7 +20,7 @@ En [esta liga](https://github.com/Lay94/mcd-unison-proyecto_integrador/blob/main
 limpieza y análisis de los datos, incluyendo un [análisis exploratorio automático](https://github.com/Lay94/mcd-unison-proyecto_integrador/blob/main/eda-sweetview.html) realizado con la librería ´sweetviz´ y otro donde de describen las relaciones entre las variables
 
 Finalmente se realizó [un tablero con Tableu](https://public.tableau.com/views/PercepcindeinseguridaddemujeresVsDelitosdeviolenciamachistas/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
-)En este tablero se observará:
+) donde se observa:
 
 **1.** Percepción de inseguridad por estados
 
