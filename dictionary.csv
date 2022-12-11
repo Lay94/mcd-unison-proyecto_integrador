@@ -1,0 +1,13 @@
+,Tipo,Descripcion,Fuente
+ESTADO,object,Nombre del estado,ENSU 2022: https://www.inegi.org.mx
+MUNICIPIO,object,Nombre del municipio,ENSU 2022: https://www.inegi.org.mx
+MUJERES_INSEGURAS,int64,Cantidad de mujeres encuestadas que creen que su ciudad es insegura,ENSU 2022: https://www.inegi.org.mx
+TOTAL_MUJERES,int64,Total de mujeres encuestadas,ENSU 2022: https://www.inegi.org.mx
+TRIMESTRES,object,Trimestres del año,ENSU 2022: https://www.inegi.org.mx
+PERCEPCION_INSEGURIDAD,float64,Tasa por cada 100 mil mujeres de percepción de inseguridad,SESNSP 2022: https://datamexico.org
+FEMINICIDIO,float64,Tasa por cada 100 mil mujeres de delitos por feminicidios,SESNSP 2022: https://datamexico.org
+VIOLENCIA_FAMILIAR,float64,Tasa por cada 100 mil mujeres de delitos por violencia familiar,SESNSP 2022: https://datamexico.org
+VIOLENCIA_GENERO,float64,Tasa por cada 100 mil mujeres de delitos por violencia de género,SESNSP 2022: https://datamexico.org
+TOTAL_DELITOS,float64,Tasa por cada 100 mil mujeres del total de delitos relacionados con la violencia hacia la mujer,SESNSP 2022: https://datamexico.org
+POBLACION,int64,Tamaño de la población,Población: https://datamexico.org
+FECHA,datetime64[ns],Fecha,SESNSP 2022: https://datamexico.org

@@ -1,0 +1,21 @@
+Archivos sobre incidencia delictiva y resultados de encuesta sobre percepción de violencia
+
+        Se decargaron datos de dos fuentes de información distintas. Por un lado, los datos de incidencias 
+        delictivas a nivel estatal, agrupados por tipos de delitos, por estados y por municipios durante el
+        año 2022, como fuente del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP). 
+        Estos datos se obtuvieron del sitio web https://datamexico.org
+        
+        Por otro lado, se encuentran los datos que recogen los resultados de la Encuesta Nacional de Seguridad
+        Pública Urbana (ENSU) del año 2022; información sobre la percepción de seguridad pública en la población 
+        urbana. Estos resultados fueron publicados en el sitio web https://www.inegi.org.mx
+        
+        Por último, se encuentra la información sobre el tamaño de la población entre los diferentes municipios 
+        de México. Estos datos se obtuvieron del sitio web https://datamexico.org
+        
+Descargado el 2022-12-10 17:19:30
+Desde: https://api.datamexico.org/tesseract/cubes/sesnsp_crimes/aggregate.jsonrecords?captions%5B%5D=Date.Date.Quarter.Quarter+ES&captions%5B%5D=Geography.Geography.State.State+slug+ES&captions%5B%5D=Geography.Geography.Municipality.Municipality+ES&captions%5B%5D=Type.Type.Crime+Type.Crime+Type+ES&cuts%5B%5D=Date.Date.Year.2022&drilldowns%5B%5D=Date.Date.Year&drilldowns%5B%5D=Date.Date.Quarter&drilldowns%5B%5D=Geography.Geography.State&drilldowns%5B%5D=Geography.Geography.Municipality&drilldowns%5B%5D=Type.Type.Crime+Type&measures%5B%5D=Value
+Nombre: sesnsp.json
+Descargado el 2022-12-10 17:19:30
+Desde: https://www.inegi.org.mx/programas/ensu/#Datos_abiertos
+Desde: https://api.datamexico.org/tesseract/cubes/inegi_population_total/aggregate.jsonrecords?captions%5B%5D=Geography.Geography.State.State+slug+ES&captions%5B%5D=Geography.Geography.Municipality.Municipality+ES&captions%5B%5D=Sex.Sex.Sex.Sex+ES&cuts%5B%5D=Sex.Sex.Sex.2&drilldowns%5B%5D=Geography.Geography.State&drilldowns%5B%5D=Geography.Geography.Municipality&drilldowns%5B%5D=Sex.Sex.Sex&measures%5B%5D=Population
+Nombre: poblacion.json
