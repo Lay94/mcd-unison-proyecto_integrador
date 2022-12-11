@@ -17,7 +17,7 @@ Los datos utilizados se obtuvieron de dos fuentes de información diferentes
 ## Limpieza, análisis y visualizaciónde los datos
 
 En [esta liga](https://github.com/Lay94/mcd-unison-proyecto_integrador/blob/main/analizando_datos.ipynb) se podrá encontrar la libreta de jupyter dónde se realiza la
-limpieza y análisis de los datos, incluyendo un [análisis exploratorio automático](https://github.com/Lay94/mcd-unison-proyecto_integrador/blob/main/eda-sweetview.html) realizado con la librería ´sweetviz´ y otro donde de describen las relaciones entre las variables
+limpieza y análisis de los datos, incluyendo un [análisis exploratorio automático](https://github.com/Lay94/mcd-unison-proyecto_integrador/blob/main/eda-sweetview.html) realizado con la librería `sweetviz` y otro donde de describen las relaciones entre las variables
 
 Finalmente se realizó [un tablero con Tableu](https://public.tableau.com/views/PercepcindeinseguridaddemujeresVsDelitosdeviolenciamachistas/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 ) donde se observa:
