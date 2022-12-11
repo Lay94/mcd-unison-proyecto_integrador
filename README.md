@@ -22,9 +22,9 @@ limpieza y análisis de los datos, incluyendo un [análisis exploratorio automá
 Finalmente se realizó [un tablero con Tableu](https://public.tableau.com/views/PercepcindeinseguridaddemujeresVsDelitosdeviolenciamachistas/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
 ) donde se observa:
 
-**1.** Percepción de inseguridad por estados
+**1.** Percepción de inseguridad por estados y por trimestre
 
-**2.** Cantidad de delito reportados por estados
+**2.** Cantidad de delito reportados por estados y por trimestre
 
 **3.** Relación entre la percepción de inseguridad y la cantidad de delitos
 
